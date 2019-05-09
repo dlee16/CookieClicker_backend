@@ -5,10 +5,3 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-
-player1 = Player.create(name: "harry", highscore: 10999)
-player2 = Player.create(name: "ron", highscore: 19)
-player3 = Player.create(name: "hermione", highscore: 9999)
-player4 = Player.create(name: "snape", highscore: 10000)
-player5 = Player.create(name: "dumbledore", highscore: 101010)
-player6 = Player.create(name: "voldemort", highscore: 0)
